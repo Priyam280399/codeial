@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../controllers"
+		},
+		{
+			"path": "../model"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../routes"
+		},
+		{
+			"path": "../uploads"
+		},
+		{
+			"path": "../views"
+		}
+	]
+}
